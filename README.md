@@ -133,27 +133,3 @@ The notebook follows these steps:
 
    - Insights are derived from the clusters and presented clearly.
 
----
-
-### **Example Output**
-
-#### **Clustering Metrics**:
-```
-Davies-Bouldin Index: 0.72
-Silhouette Score: 0.58
-```
-
-#### **Cluster Visualization**:
-- A scatter plot showing customer clusters in 2D PCA space.
-
-#### **Cluster Summary**:
-| Cluster | TotalValue | Quantity | Price | Tenure | Region_Europe | Region_Asia | Category_Electronics |
-|---------|------------|----------|-------|--------|---------------|-------------|----------------------|
-| 0       | 1.2        | 15.3     | 25.0  | 365    | 0.8           | 0.2         | 0.6                  |
-| 1       | 0.8        | 10.5     | 20.0  | 180    | 0.5           | 0.5         | 0.4                  |
-| 2       | 1.5        | 20.0     | 30.0  | 730    | 0.9           | 0.1         | 0.7                  |
-| 3       | 0.5        | 5.0      | 15.0  | 90     | 0.2           | 0.8         | 0.3                  |
-
----
-
-This README provides a comprehensive overview of the notebook and its outputs. Let me know if you need further assistance!
