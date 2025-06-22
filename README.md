@@ -12,7 +12,7 @@ Absolutely! Below is a **highly enhanced and professionally styled README.md** f
 
 ### ✅ Copy-Paste This into Your `README.md` File
 
-```markdown
+
 # Mifos Summer of Code 2025 — Phase II: Bank Statement Analysis & Real-Time Insights  
 
 ![Banner](https://github.com/user-attachments/assets/d5ee3125-9512-4877-878d-dff3db0b86b1)
@@ -79,7 +79,7 @@ At the heart of the platform are several advanced machine learning and statistic
 
 Each transaction description is analyzed to determine its category. A hybrid approach combining NLP-based Named Entity Recognition (NER) and regular expression matching is employed:
 
-```python
+```
 def classify_transaction(description):
     description = description.lower()
     if re.search(r"restaurant|cafe|food", description):
