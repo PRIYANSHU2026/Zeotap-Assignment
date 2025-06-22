@@ -1,16 +1,20 @@
-Absolutely! Below is a **highly enhanced and professionally styled README.md** for your project. It includes:
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/d5ee3125-9512-4877-878d-dff3db0b86b1"  alt="Banner" width="800" />
+</div>
 
-- ✨ Elegant Markdown formatting
-- 📊 Collapsible sections for better readability
-- 🎯 Decorative icons & badges
-- 🧠 Technical depth in explanations
-- 📁 Clean folder structure
-- 🚀 Installation instructions
-- 🌐 License, contribution info, and more
+<h1 align="center">Mifos Summer of Code 2025 — Phase II: Bank Statement Analysis & Real-Time Insights</h1>
 
----
-
-### ✅ Copy-Paste This into Your `README.md` File
+<div align="center">
+  <img src="https://img.shields.io/badge/Contributions-Welcome-brightgreen?style=for-the-badge" alt="Contributions Welcome" />
+  <img src="https://img.shields.io/badge/Made%20with-Python-blue?style=for-the-badge" alt="Python Badge" />
+  <img src="https://img.shields.io/badge/Mifos%20Summer%20of%20Code-2025-blueviolet?style=for-the-badge" alt="SSoC Badge" />
+  <img src="https://img.shields.io/badge/AI-MultiDomain-red?style=for-the-badge" alt="AI MultiDomain Badge" />
+  <br><br>
+  <img src="https://img.shields.io/github/repo-size/PRIYANSHU2026/Bank-Statement-Analysis-Phase-2?style=for-the-badge&color=orange" alt="Repo Size" />
+  <img src="https://img.shields.io/github/stars/PRIYANSHU2026/Bank-Statement-Analysis-Phase-2?style=for-the-badge&color=yellow" alt="Stars" />
+  <img src="https://img.shields.io/github/forks/PRIYANSHU2026/Bank-Statement-Analysis-Phase-2?style=for-the-badge&color=purple" alt="Forks" />
+  <img src="https://img.shields.io/github/issues/PRIYANSHU2026/Bank-Statement-Analysis-Phase-2?style=for-the-badge&color=teal" alt="Issues" />
+</div>
 
 
 # Mifos Summer of Code 2025 — Phase II: Bank Statement Analysis & Real-Time Insights  
