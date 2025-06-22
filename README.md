@@ -56,7 +56,6 @@
   <div class="badges" align="center">
     <img src="https://img.shields.io/badge/Contributions-Welcome-brightgreen?style=for-the-badge" alt="Contributions Welcome" />
     <img src="https://img.shields.io/badge/Made%20with-Python-blue?style=for-the-badge" alt="Python Badge" />
-    <img src="https://img.shields.io/badge/Mifos%20Summer%20of%Code-2025-blueviolet?style=for-the-badge" alt="SSoC Badge" />
     <img src="https://img.shields.io/badge/AI-MultiDomain-red?style=for-the-badge" alt="AI MultiDomain Badge" />
     <img src="https://img.shields.io/github/repo-size/PRIYANSHU2026/Bank-Statement-Analysis-Phase-2?style=for-the-badge&color=orange" alt="Repo Size" />
     <img src="https://img.shields.io/github/stars/PRIYANSHU2026/Bank-Statement-Analysis-Phase-2?style=for-the-badge&color=yellow" alt="Stars" />
